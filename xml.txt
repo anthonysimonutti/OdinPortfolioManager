@@ -1,0 +1,1 @@
+<?xml version="1.0"?><data><ticker symbol="GOOG" market="DJI"><field>b2</field><field>a5</field><field>a2</field><field>b0</field><field>b3</field><field>b6</field><field>b4</field><field>c1</field><field>c0</field><field>m7</field><field>m5</field><field>k4</field><field>j5</field><field>p2</field><field>k2</field></ticker></data>
